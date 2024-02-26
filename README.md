@@ -1,3 +1,5 @@
-Hello there, i'm a nobody on the internet. I make shit.
+## Hello, i'm suonabera
 
-You can find my contact outlets on my profile tab. Demori multa gloria est!
+a self proclaimed shitty programmer and incompetent systems admin.
+
+My links: [Telegram](https://suonabera.t.me) [Steam](https://steamcommunity.com/id/suonabera) [Fedi](https://den.raccoon.quest/@suonabera)
